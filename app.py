@@ -6,7 +6,8 @@ st.markdown(
     """
     <style>
     body{
-        color:white;
+        back-ground-color:white;
+        color:black;
     }
     .stApp{
         padding:30px;
@@ -34,13 +35,13 @@ st.markdown(
         text-align:center;
         margin-top:30px;
         font-size:20px;
-        color:white;
+        color:black;
     }
     .footer1{
         text-align:center;
         margin-top:10px;
         font-size:20px;
-        color:white;
+        color:black;
     }
     </style>
     """,
